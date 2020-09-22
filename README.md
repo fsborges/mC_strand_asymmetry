@@ -8,4 +8,4 @@ which is calculated using the R function kde2d.
 
 A loess regression model is computed using the ‘loess’ function, and applied to the original data by using the R function ‘predict’.
 
-Example dataset is symmetric CHG methylation (CAG/CTG) on chromosome 1 of Arabidopsis sperm cells (Col-0 background).
+Example dataset shows CHG methylation (CAG/CTG) on chromosome 1 of Arabidopsis sperm cells (Col-0 background).
